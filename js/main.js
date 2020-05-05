@@ -1,4 +1,4 @@
-jQuery(document).ready(($) => {
+$(document).ready(($) => {
     // Logo animation
     const $logo = $("#logo");
     if (location.href.indexOf("#") !== -1) {
